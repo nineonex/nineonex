@@ -1,10 +1,5 @@
 ## Oi!! Eu sou o João Carlos
-
-- 🌱 Atualmente aprendendo React
-- 🔭 Atualmente trabalho em um projeto pessoal
-- 😄 Pronomes: ele/dele
  
- ##
 <div display>
 <a href="https://github.com/nineonex">
 <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=nineonex&theme=dark&show_icons=true">
