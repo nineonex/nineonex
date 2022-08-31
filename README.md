@@ -8,8 +8,8 @@
 
 <div>
 <a href="https://github.com/nineonex">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nineonex&theme=dark&show_icons=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nineonex&layout=compact&theme=dark"></a>
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=nineonex&theme=dark&show_icons=true">
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nineonex&layout=compact&theme=dark"></a>
 </div>
 
 ##
