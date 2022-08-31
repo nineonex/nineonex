@@ -1,16 +1,22 @@
-### Hi there 👋
+## Oi!! Eu sou o João Carlos
 
-<!--
-**nineonex/nineonex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente aprendendo React
+- 🔭 Atualmente trabalho em um projeto pessoal
+- 😄 Pronomes: ele/dele
+ 
+ ##
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/nineonex">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nineonex&theme=dark&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nineonex&layout=compact&theme=dark"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div display="inline_block">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-sousa-alves/" alt="Likedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://www.codewars.com/users/nineonex" alt="CodeWars"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/><a/>
+</div>
+
+##
+![Snake animation](https://github.com/rafaballerini/nineonex/blob/output/github-contribution-grid-snake.svg)
